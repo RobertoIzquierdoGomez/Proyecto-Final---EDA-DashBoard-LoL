@@ -1,4 +1,4 @@
-{
+{   
     "type": "champion",
     "version": "7.18.1",
     "data": {
@@ -17,7 +17,7 @@
             ],
             "title": "the Monkey King",
             "id": 62,
-            "key": "MonkeyKing",
+            "key": "Wukong",
             "name": "Wukong"
         },
         "Jax": {
